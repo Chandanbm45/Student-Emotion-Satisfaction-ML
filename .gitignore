@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large ML files
+*.weights
+*.h5
+*.pth
+*.pt
+
+# Datasets
+*.csv
+*.xlsx
+*.json
+data/
+dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compressed files
+*.zip
+*.rar
+
+# Training outputs
+checkpoints/
+runs/
+outputs/
